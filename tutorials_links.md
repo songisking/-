@@ -12,4 +12,10 @@
 
 6. [TensorFlow](https://tensorflow.google.cn/tutorials)
 
-7.
+7. [sklearn](https://scikit-learn.org/stable/)
+
+8. [librosa](https://librosa.github.io/librosa/)
+
+9. 
+
+
