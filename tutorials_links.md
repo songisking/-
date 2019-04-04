@@ -16,6 +16,6 @@
 
 8. [librosa](https://librosa.github.io/librosa/)
 
-9. 
+9. [jupyter](https://jupyter.org/documentation)
 
 
