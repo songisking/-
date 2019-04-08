@@ -18,4 +18,12 @@
 
 9. [jupyter](https://jupyter.org/documentation)
 
+10. [pandas](https://pandas.pydata.org/pandas-docs/stable/?v=20190403155621)
+
+11. [IPython](https://ipython.org/documentation.html?v=20190403155621)
+
+12. [Markdown](https://help.github.com/en/articles/getting-started-with-writing-and-formatting-on-github)
+
+13. [SymPy](https://docs.sympy.org/latest/index.html?v=20190403155621)
+
 
