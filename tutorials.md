@@ -1,4 +1,4 @@
-## 一些常用Tutorials的链接
+## 一些常用文档的链接
 
 1. [cs231n课程中的python, Numpy简单Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
 
