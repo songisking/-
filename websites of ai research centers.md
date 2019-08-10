@@ -1,0 +1,10 @@
+* Google 
+* Facebook
+* Microsoft
+* Intel
+* Amazon
+* Nvidia
+* Baidu
+* Tencent
+* Alibaba
+* Bytedance
